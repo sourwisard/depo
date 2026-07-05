@@ -3921,20 +3921,6 @@
       "uploaded_at": "2026-07-05T14:57:14Z"
     },
     {
-      "id": "dAhtupTJcPg",
-      "title": "ゴチャゴチャうるせー！ (feat. 亞北ネル)",
-      "uploader": "ガルナ(オワタP)",
-      "duration": 161,
-      "url": "https://www.youtube.com/watch?v=dAhtupTJcPg",
-      "thumbnail": "https://i.ytimg.com/vi/dAhtupTJcPg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv5pK-wlillbi7NEbADFFyWryZrQ",
-      "file": "music/dAhtupTJcPg.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 270
-      },
-      "uploaded_at": "2026-07-05T15:06:59Z"
-    },
-    {
       "id": "wxt0C15pZUk",
       "title": "Language of the Lost",
       "uploader": "Release - Topic",
@@ -4073,6 +4059,20 @@
         "Vocaloid": 280
       },
       "uploaded_at": "2026-07-05T15:17:21Z"
+    },
+    {
+      "id": "dAhtupTJcPg",
+      "title": "ゴチャゴチャうるせー！ (feat. 亞北ネル)",
+      "uploader": "ガルナ(オワタP)",
+      "duration": 161,
+      "url": "https://www.youtube.com/watch?v=dAhtupTJcPg",
+      "thumbnail": "https://i.ytimg.com/vi/dAhtupTJcPg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv5pK-wlillbi7NEbADFFyWryZrQ",
+      "file": "music/dAhtupTJcPg.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 281
+      },
+      "uploaded_at": "2026-07-05T15:18:19Z"
     }
   ],
   "playlists": {
