@@ -1021,6 +1021,20 @@
         "BREAKCORE!": 58
       },
       "uploaded_at": "2026-07-05T02:42:33Z"
+    },
+    {
+      "id": "6ZZghJG0d0E",
+      "title": "The Backseat Lovers - Kilby Girl (Official Video) Live",
+      "uploader": "The Backseat Lovers",
+      "duration": 267,
+      "url": "https://www.youtube.com/watch?v=6ZZghJG0d0E",
+      "thumbnail": "https://i.ytimg.com/vi/6ZZghJG0d0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQs_nAWRa5oB8Cm9F8XkvfmB8nRA",
+      "file": "music/6ZZghJG0d0E.mp4",
+      "lyrics": "",
+      "playlists": {
+        "playlist as the playlist name underwhelming :3": 0
+      },
+      "uploaded_at": "2026-07-05T06:53:34Z"
     }
   ],
   "playlists": {
@@ -1033,6 +1047,16 @@
     },
     "BREAKCORE!": {
       "showOnWorker": true,
+      "placeholder1": "",
+      "placeholder2": "",
+      "placeholder3": "",
+      "placeholder4": ""
+    },
+    "playlist as the playlist name underwhelming :3": {
+      "showOnWorker": false,
+      "showOnLay": false,
+      "showOnCheezit": false,
+      "showOnKat": false,
       "placeholder1": "",
       "placeholder2": "",
       "placeholder3": "",
