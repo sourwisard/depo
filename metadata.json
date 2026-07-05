@@ -2339,20 +2339,6 @@
       "uploaded_at": "2026-07-05T08:57:59Z"
     },
     {
-      "id": "d1XF05qkBb0",
-      "title": "生命性シンドロウム (feat. 初音ミク)",
-      "uploader": "Camellia Official",
-      "duration": 231,
-      "url": "https://www.youtube.com/watch?v=d1XF05qkBb0",
-      "thumbnail": "https://i.ytimg.com/vi/d1XF05qkBb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1CeNwX64qhWPtdD0fsE2RtIyBPQ",
-      "file": "music/d1XF05qkBb0.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 120
-      },
-      "uploaded_at": "2026-07-05T09:04:15Z"
-    },
-    {
       "id": "qEEmjOJhkME",
       "title": "Catchy Yellow Song",
       "uploader": "44e-prone",
@@ -2827,6 +2813,20 @@
         "Vocaloid": 154
       },
       "uploaded_at": "2026-07-05T09:39:13Z"
+    },
+    {
+      "id": "d1XF05qkBb0",
+      "title": "生命性シンドロウム (feat. 初音ミク)",
+      "uploader": "Camellia Official",
+      "duration": 231,
+      "url": "https://www.youtube.com/watch?v=d1XF05qkBb0",
+      "thumbnail": "https://i.ytimg.com/vi/d1XF05qkBb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1CeNwX64qhWPtdD0fsE2RtIyBPQ",
+      "file": "music/d1XF05qkBb0.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 155
+      },
+      "uploaded_at": "2026-07-05T09:40:15Z"
     }
   ],
   "playlists": {
