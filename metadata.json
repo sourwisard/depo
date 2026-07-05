@@ -960,7 +960,9 @@
     "thumbnail": "https://i.ytimg.com/vi/_lAyonVMuls/hqdefault.jpg?sqp=-oaymwE6CNACELwBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIFMoUDAPuAL3GA==&rs=AOn4CLB1mRd_9xsl8TxOY8B0zWB32jpnDQ",
     "file": "music/_lAyonVMuls.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 54
+    },
     "uploaded_at": "2026-07-05T02:39:37Z"
   },
   {
