@@ -2339,20 +2339,6 @@
       "uploaded_at": "2026-07-05T08:57:59Z"
     },
     {
-      "id": "zdUrNLDdki4",
-      "title": "ばぶらんど",
-      "uploader": "ばぶちゃんBabuchan",
-      "duration": 131,
-      "url": "https://www.youtube.com/watch?v=zdUrNLDdki4",
-      "thumbnail": "https://i.ytimg.com/vi/zdUrNLDdki4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmujhfQ1ugozl-fuMZI3vi6-l1Mg",
-      "file": "music/zdUrNLDdki4.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 141
-      },
-      "uploaded_at": "2026-07-05T09:26:00Z"
-    },
-    {
       "id": "9kUMm57Filk",
       "title": "転生林檎",
       "uploader": "ピノキオピー PINOCCHIOP OFFICIAL CHANNEL",
@@ -2827,6 +2813,20 @@
         "Vocaloid": 175
       },
       "uploaded_at": "2026-07-05T09:59:42Z"
+    },
+    {
+      "id": "zdUrNLDdki4",
+      "title": "ばぶらんど",
+      "uploader": "ばぶちゃんBabuchan",
+      "duration": 131,
+      "url": "https://www.youtube.com/watch?v=zdUrNLDdki4",
+      "thumbnail": "https://i.ytimg.com/vi/zdUrNLDdki4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmujhfQ1ugozl-fuMZI3vi6-l1Mg",
+      "file": "music/zdUrNLDdki4.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 176
+      },
+      "uploaded_at": "2026-07-05T10:00:44Z"
     }
   ],
   "playlists": {
