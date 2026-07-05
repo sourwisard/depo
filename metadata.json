@@ -2339,20 +2339,6 @@
       "uploaded_at": "2026-07-05T08:57:59Z"
     },
     {
-      "id": "LMNtZzOQC2w",
-      "title": "愛色ストロベリー",
-      "uploader": "まぼえむ",
-      "duration": 282,
-      "url": "https://www.youtube.com/watch?v=LMNtZzOQC2w",
-      "thumbnail": "https://i.ytimg.com/vi/LMNtZzOQC2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEFitcoDKe-mp-U84mM7QhbVWU9Q",
-      "file": "music/LMNtZzOQC2w.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 144
-      },
-      "uploaded_at": "2026-07-05T09:28:55Z"
-    },
-    {
       "id": "2ENM9GVOuAI",
       "title": "メロメロイド (feat. 初音ミク)",
       "uploader": "かいりきベア／Kairiki bear",
@@ -2841,6 +2827,20 @@
         "Vocaloid": 179
       },
       "uploaded_at": "2026-07-05T10:03:27Z"
+    },
+    {
+      "id": "LMNtZzOQC2w",
+      "title": "愛色ストロベリー",
+      "uploader": "まぼえむ",
+      "duration": 282,
+      "url": "https://www.youtube.com/watch?v=LMNtZzOQC2w",
+      "thumbnail": "https://i.ytimg.com/vi/LMNtZzOQC2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEFitcoDKe-mp-U84mM7QhbVWU9Q",
+      "file": "music/LMNtZzOQC2w.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 180
+      },
+      "uploaded_at": "2026-07-05T10:04:25Z"
     }
   ],
   "playlists": {
