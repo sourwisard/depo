@@ -582,7 +582,9 @@
     "thumbnail": "https://i.ytimg.com/vi/CiyIvnAF0cg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB7lbeCSLmrMk9C1u4vggc0QzZL9A",
     "file": "music/CiyIvnAF0cg.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 27
+    },
     "uploaded_at": "2026-07-05T02:16:03Z"
   },
   {
