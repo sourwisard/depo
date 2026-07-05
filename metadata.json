@@ -1471,20 +1471,6 @@
       "uploaded_at": "2026-07-05T07:16:09Z"
     },
     {
-      "id": "KxNOBCyGhnk",
-      "title": "愛して　愛して　愛して (feat. Hatsune Miku)",
-      "uploader": "Kikuo",
-      "duration": 253,
-      "url": "https://www.youtube.com/watch?v=KxNOBCyGhnk",
-      "thumbnail": "https://i.ytimg.com/vi/KxNOBCyGhnk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwsd-hah7nUEHvP5VlSXkqPAQUOw",
-      "file": "music/KxNOBCyGhnk.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 2
-      },
-      "uploaded_at": "2026-07-05T07:51:08Z"
-    },
-    {
       "id": "MTXs3LIAE24",
       "title": "ラビットホール",
       "uploader": "DECO*27",
@@ -1805,6 +1791,20 @@
         "Vocaloid": 25
       },
       "uploaded_at": "2026-07-05T08:05:55Z"
+    },
+    {
+      "id": "KxNOBCyGhnk",
+      "title": "愛して　愛して　愛して (feat. Hatsune Miku)",
+      "uploader": "Kikuo",
+      "duration": 253,
+      "url": "https://www.youtube.com/watch?v=KxNOBCyGhnk",
+      "thumbnail": "https://i.ytimg.com/vi/KxNOBCyGhnk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwsd-hah7nUEHvP5VlSXkqPAQUOw",
+      "file": "music/KxNOBCyGhnk.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 26
+      },
+      "uploaded_at": "2026-07-05T08:06:36Z"
     }
   ],
   "playlists": {
