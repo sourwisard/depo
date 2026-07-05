@@ -3921,20 +3921,6 @@
       "uploaded_at": "2026-07-05T14:57:14Z"
     },
     {
-      "id": "uax19yUJ7v8",
-      "title": "ごめんね ごめんね (feat. 初音ミク)",
-      "uploader": "Kikuo",
-      "duration": 286,
-      "url": "https://www.youtube.com/watch?v=uax19yUJ7v8",
-      "thumbnail": "https://i.ytimg.com/vi/uax19yUJ7v8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdYZRxKr8YvClXN021PBLM3EKQSQ",
-      "file": "music/uax19yUJ7v8.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 267
-      },
-      "uploaded_at": "2026-07-05T15:03:56Z"
-    },
-    {
       "id": "0uOjJvEa7s0",
       "title": "ニャン (feat. 初音ミク)",
       "uploader": "MARETU",
@@ -4073,6 +4059,20 @@
         "Vocaloid": 277
       },
       "uploaded_at": "2026-07-05T15:14:19Z"
+    },
+    {
+      "id": "uax19yUJ7v8",
+      "title": "ごめんね ごめんね (feat. 初音ミク)",
+      "uploader": "Kikuo",
+      "duration": 286,
+      "url": "https://www.youtube.com/watch?v=uax19yUJ7v8",
+      "thumbnail": "https://i.ytimg.com/vi/uax19yUJ7v8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdYZRxKr8YvClXN021PBLM3EKQSQ",
+      "file": "music/uax19yUJ7v8.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 278
+      },
+      "uploaded_at": "2026-07-05T15:15:22Z"
     }
   ],
   "playlists": {
