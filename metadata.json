@@ -1016,7 +1016,9 @@
     "thumbnail": "https://i.ytimg.com/vi/yrMo49RNhE8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAv4BrakDiG9cG4eGXhbtUPjYy7MQ",
     "file": "music/yrMo49RNhE8.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 58
+    },
     "uploaded_at": "2026-07-05T02:42:33Z"
   }
 ]
