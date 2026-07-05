@@ -2339,20 +2339,6 @@
       "uploaded_at": "2026-07-05T08:57:59Z"
     },
     {
-      "id": "2ENM9GVOuAI",
-      "title": "メロメロイド (feat. 初音ミク)",
-      "uploader": "かいりきベア／Kairiki bear",
-      "duration": 184,
-      "url": "https://www.youtube.com/watch?v=2ENM9GVOuAI",
-      "thumbnail": "https://i.ytimg.com/vi/2ENM9GVOuAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmOxevrVYxAnxu7yjOf6uMb5PmbQ",
-      "file": "music/2ENM9GVOuAI.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 145
-      },
-      "uploaded_at": "2026-07-05T09:29:56Z"
-    },
-    {
       "id": "fHre5cVcKeM",
       "title": "しう",
       "uploader": "MARETU",
@@ -2841,6 +2827,20 @@
         "Vocaloid": 180
       },
       "uploaded_at": "2026-07-05T10:04:25Z"
+    },
+    {
+      "id": "2ENM9GVOuAI",
+      "title": "メロメロイド (feat. 初音ミク)",
+      "uploader": "かいりきベア／Kairiki bear",
+      "duration": 184,
+      "url": "https://www.youtube.com/watch?v=2ENM9GVOuAI",
+      "thumbnail": "https://i.ytimg.com/vi/2ENM9GVOuAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmOxevrVYxAnxu7yjOf6uMb5PmbQ",
+      "file": "music/2ENM9GVOuAI.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 181
+      },
+      "uploaded_at": "2026-07-05T10:05:25Z"
     }
   ],
   "playlists": {
