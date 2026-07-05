@@ -2339,20 +2339,6 @@
       "uploaded_at": "2026-07-05T08:57:59Z"
     },
     {
-      "id": "PrEGHAzm1Gc",
-      "title": "ギフテッド (feat. 初音ミク)",
-      "uploader": "AILKAIL",
-      "duration": 174,
-      "url": "https://www.youtube.com/watch?v=PrEGHAzm1Gc",
-      "thumbnail": "https://i.ytimg.com/vi/PrEGHAzm1Gc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTemWF6Mr_ninI7nsBsksnwrTSOA",
-      "file": "music/PrEGHAzm1Gc.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 143
-      },
-      "uploaded_at": "2026-07-05T09:27:53Z"
-    },
-    {
       "id": "LMNtZzOQC2w",
       "title": "愛色ストロベリー",
       "uploader": "まぼえむ",
@@ -2827,6 +2813,20 @@
         "Vocaloid": 177
       },
       "uploaded_at": "2026-07-05T10:01:50Z"
+    },
+    {
+      "id": "PrEGHAzm1Gc",
+      "title": "ギフテッド (feat. 初音ミク)",
+      "uploader": "AILKAIL",
+      "duration": 174,
+      "url": "https://www.youtube.com/watch?v=PrEGHAzm1Gc",
+      "thumbnail": "https://i.ytimg.com/vi/PrEGHAzm1Gc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTemWF6Mr_ninI7nsBsksnwrTSOA",
+      "file": "music/PrEGHAzm1Gc.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 178
+      },
+      "uploaded_at": "2026-07-05T10:02:34Z"
     }
   ],
   "playlists": {
