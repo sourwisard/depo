@@ -610,7 +610,9 @@
     "thumbnail": "https://i.ytimg.com/vi/zeQkNgzQGDM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC18bWHOBz7Y4a0IRazcPVbckxrpw",
     "file": "music/zeQkNgzQGDM.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 29
+    },
     "uploaded_at": "2026-07-05T02:18:01Z"
   },
   {
