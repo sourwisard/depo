@@ -1025,7 +1025,7 @@
   ],
   "playlists": {
     "cutie": {
-      "showOnWorker": true,
+      "showOnWorker": false,
       "placeholder1": "",
       "placeholder2": "",
       "placeholder3": "",
