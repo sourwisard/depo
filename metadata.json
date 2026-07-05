@@ -2339,20 +2339,6 @@
       "uploaded_at": "2026-07-05T08:57:59Z"
     },
     {
-      "id": "WgKn9W33z38",
-      "title": "悪いことはしちゃいけないよ (feat. 初音ミク)",
-      "uploader": "Kikuo",
-      "duration": 233,
-      "url": "https://www.youtube.com/watch?v=WgKn9W33z38",
-      "thumbnail": "https://i.ytimg.com/vi/WgKn9W33z38/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsELtRgZMioF2ik4TZ9v40sVNV3Q",
-      "file": "music/WgKn9W33z38.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 139
-      },
-      "uploaded_at": "2026-07-05T09:23:48Z"
-    },
-    {
       "id": "isppxfmsazk",
       "title": "ドクター＝ファンクビート (feat. KAITO)",
       "uploader": "nyanyannya",
@@ -2827,6 +2813,20 @@
         "Vocaloid": 173
       },
       "uploaded_at": "2026-07-05T09:57:51Z"
+    },
+    {
+      "id": "WgKn9W33z38",
+      "title": "悪いことはしちゃいけないよ (feat. 初音ミク)",
+      "uploader": "Kikuo",
+      "duration": 233,
+      "url": "https://www.youtube.com/watch?v=WgKn9W33z38",
+      "thumbnail": "https://i.ytimg.com/vi/WgKn9W33z38/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsELtRgZMioF2ik4TZ9v40sVNV3Q",
+      "file": "music/WgKn9W33z38.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 174
+      },
+      "uploaded_at": "2026-07-05T09:58:50Z"
     }
   ],
   "playlists": {
