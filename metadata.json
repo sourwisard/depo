@@ -2339,20 +2339,6 @@
       "uploaded_at": "2026-07-05T08:57:59Z"
     },
     {
-      "id": "PchZDjvRkUM",
-      "title": "マッテイル",
-      "uploader": "ミ瑞",
-      "duration": 196,
-      "url": "https://www.youtube.com/watch?v=PchZDjvRkUM",
-      "thumbnail": "https://i.ytimg.com/vi/PchZDjvRkUM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3aUIavXjTcZtYovxc9tDnK7Z08A",
-      "file": "music/PchZDjvRkUM.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 126
-      },
-      "uploaded_at": "2026-07-05T09:10:03Z"
-    },
-    {
       "id": "i2u6KAqY1Mo",
       "title": "超限界バスター",
       "uploader": "¿?",
@@ -2827,6 +2813,20 @@
         "Vocaloid": 160
       },
       "uploaded_at": "2026-07-05T09:44:45Z"
+    },
+    {
+      "id": "PchZDjvRkUM",
+      "title": "マッテイル",
+      "uploader": "ミ瑞",
+      "duration": 196,
+      "url": "https://www.youtube.com/watch?v=PchZDjvRkUM",
+      "thumbnail": "https://i.ytimg.com/vi/PchZDjvRkUM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3aUIavXjTcZtYovxc9tDnK7Z08A",
+      "file": "music/PchZDjvRkUM.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 161
+      },
+      "uploaded_at": "2026-07-05T09:45:43Z"
     }
   ],
   "playlists": {
