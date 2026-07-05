@@ -708,7 +708,9 @@
     "thumbnail": "https://i.ytimg.com/vi/4nDwlYEMmb8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDyrK0wznIx09PCtWabXBOzx_9J3A",
     "file": "music/4nDwlYEMmb8.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 36
+    },
     "uploaded_at": "2026-07-05T02:24:26Z"
   },
   {
