@@ -946,7 +946,9 @@
     "thumbnail": "https://i.ytimg.com/vi/5Uy4kYkQvHM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD14Iq75OvXozmC_C1Hx25ZoTYykA",
     "file": "music/5Uy4kYkQvHM.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 53
+    },
     "uploaded_at": "2026-07-05T02:38:40Z"
   },
   {
