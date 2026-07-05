@@ -1469,6 +1469,20 @@
         "playlist as the playlist name underwhelming :3": 31
       },
       "uploaded_at": "2026-07-05T07:16:09Z"
+    },
+    {
+      "id": "ibjWftkJrd4",
+      "title": "メズマライザー (feat. 初音ミク & 重音テト)",
+      "uploader": "32ki",
+      "duration": 157,
+      "url": "https://www.youtube.com/watch?v=ibjWftkJrd4",
+      "thumbnail": "https://i.ytimg.com/vi/ibjWftkJrd4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzgONDQWOJX_NXPYBlEj9dd_qu3A",
+      "file": "music/ibjWftkJrd4.mp4",
+      "lyrics": "[00:14.26] 実際の感情はno think!\n[00:15.61] 気付かないフリ？\n[00:16.89] 絶対的な虚実と心中\n[00:19.43] そうやって減っていく安置\n[00:20.82] 傷の切り売り\n[00:22.07] 脆く叫ぶ、醜態\n[00:24.02] そんなあなたにオススメ！最高級の逃避行\n[00:26.63] やがて、甘美な罠に 釣られたものから救われる？\n[00:29.24] もはや正気の沙汰では やっていけないこの娑婆じゃ\n[00:31.93] 敢えて素知らぬ顔で 身を任せるのが最適解？\n[00:35.49] 言葉で飾った花束も 心を奪えば、本物か？\n[00:40.59] 全てが染まっていくような 事象にご招待\n[00:44.69] さらば！\n[00:45.36] こんな時代に誂えた 見て呉れの脆弱性\n[00:50.56] 本当の芝居で騙される 矢鱈と煩い心臓の鼓動\n[00:55.73] 残機は疾うにないなっている 擦り減る耐久性\n[01:00.54] 目の前の事象を躱しつつ 生きるので手一杯！\n[01:04.94] 誰か、助けてね\n[01:07.82] \n[01:19.02] 「あなた段々眠くなる」浅はかな催眠術\n[01:21.67] 頭、身体、煙に巻く まさか、数多誑かす!?\n[01:24.38] 目の前で揺らぐ硬貨 動かなくなる彼方\n[01:26.80] 「これでいいんだ」自分さえも騙し騙しshut down\n[01:29.54] 「あなた段々眠くなる」浅はかな催眠術\n[01:32.00] 頭、身体、煙に巻く まさか、数多誑かす!?\n[01:34.67] 目の前で揺らぐ硬貨 動かなくなる彼方...\n[01:39.86] どんなに今日を生き抜いても 報われぬeveryday\n[01:44.67] もうbotみたいなサイクルで 惰性の瞬間を続けているのだ\n[01:50.27] 運も希望も無いならば 尚更しょうがねえ\n[01:55.13] 無いもんは無いで、諦めて 余物で勝負するのが運命\n[02:00.60] こんな時代に誂えた 見て呉れの脆弱性\n[02:05.53] 本当の芝居で騙される 矢鱈と煩い心臓の鼓動\n[02:10.90] 賛美はもう意味ないなっている 偽のカリスマ性\n[02:15.82] 現実を直視しすぎると 失明しちゃうんだ！\n[02:20.23] だから、適度にね\n[02:21.23] ",
+      "playlists": {
+        "Vocaloid": 0
+      },
+      "uploaded_at": "2026-07-05T07:49:58Z"
     }
   ],
   "playlists": {
@@ -1491,6 +1505,16 @@
     "playlist as the playlist name underwhelming :3": {
       "showOnWorker": false,
       "showOnLay": true,
+      "showOnCheezit": false,
+      "showOnKat": false,
+      "placeholder1": "",
+      "placeholder2": "",
+      "placeholder3": "",
+      "placeholder4": ""
+    },
+    "Vocaloid": {
+      "showOnWorker": false,
+      "showOnLay": false,
       "showOnCheezit": false,
       "showOnKat": false,
       "placeholder1": "",
