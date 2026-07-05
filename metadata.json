@@ -3921,20 +3921,6 @@
       "uploaded_at": "2026-07-05T14:57:14Z"
     },
     {
-      "id": "ASsXs-sVaFw",
-      "title": "キャンディークッキーチョコレート (feat. 初音ミク & 重音テト)",
-      "uploader": "はろける・HALLO CEL",
-      "duration": 170,
-      "url": "https://www.youtube.com/watch?v=ASsXs-sVaFw",
-      "thumbnail": "https://i.ytimg.com/vi/ASsXs-sVaFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6hf_dpfFjd49cUPiCaWLqgbvDIg",
-      "file": "music/ASsXs-sVaFw.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 269
-      },
-      "uploaded_at": "2026-07-05T15:06:01Z"
-    },
-    {
       "id": "dAhtupTJcPg",
       "title": "ゴチャゴチャうるせー！ (feat. 亞北ネル)",
       "uploader": "ガルナ(オワタP)",
@@ -4073,6 +4059,20 @@
         "Vocaloid": 279
       },
       "uploaded_at": "2026-07-05T15:16:22Z"
+    },
+    {
+      "id": "ASsXs-sVaFw",
+      "title": "キャンディークッキーチョコレート (feat. 初音ミク & 重音テト)",
+      "uploader": "はろける・HALLO CEL",
+      "duration": 170,
+      "url": "https://www.youtube.com/watch?v=ASsXs-sVaFw",
+      "thumbnail": "https://i.ytimg.com/vi/ASsXs-sVaFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6hf_dpfFjd49cUPiCaWLqgbvDIg",
+      "file": "music/ASsXs-sVaFw.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 280
+      },
+      "uploaded_at": "2026-07-05T15:17:21Z"
     }
   ],
   "playlists": {
