@@ -3921,20 +3921,6 @@
       "uploaded_at": "2026-07-05T14:57:14Z"
     },
     {
-      "id": "nblrUAP77YE",
-      "title": "世界でいちばんあなたが嫌い",
-      "uploader": "Release - Topic",
-      "duration": 135,
-      "url": "https://www.youtube.com/watch?v=nblrUAP77YE",
-      "thumbnail": "https://i.ytimg.com/vi/nblrUAP77YE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTVX4_eiiO0_bw8kFjLHTB8TzMUA",
-      "file": "music/nblrUAP77YE.mp4",
-      "lyrics": "",
-      "playlists": {
-        "Vocaloid": 272
-      },
-      "uploaded_at": "2026-07-05T15:09:12Z"
-    },
-    {
       "id": "2Lf8hebAKMw",
       "title": "nakakapagpabagabag",
       "uploader": "migs mosuela - Topic",
@@ -4073,6 +4059,20 @@
         "Vocaloid": 282
       },
       "uploaded_at": "2026-07-05T15:19:33Z"
+    },
+    {
+      "id": "nblrUAP77YE",
+      "title": "世界でいちばんあなたが嫌い",
+      "uploader": "Release - Topic",
+      "duration": 135,
+      "url": "https://www.youtube.com/watch?v=nblrUAP77YE",
+      "thumbnail": "https://i.ytimg.com/vi/nblrUAP77YE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTVX4_eiiO0_bw8kFjLHTB8TzMUA",
+      "file": "music/nblrUAP77YE.mp4",
+      "lyrics": "",
+      "playlists": {
+        "Vocaloid": 283
+      },
+      "uploaded_at": "2026-07-05T15:20:40Z"
     }
   ],
   "playlists": {
