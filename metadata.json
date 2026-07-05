@@ -764,7 +764,9 @@
     "thumbnail": "https://i.ytimg.com/vi/BR1N7qg3bCc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDBjtgVN-g8gAjapWbFbA74wOgoOQ",
     "file": "music/BR1N7qg3bCc.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 40
+    },
     "uploaded_at": "2026-07-05T02:27:57Z"
   },
   {
