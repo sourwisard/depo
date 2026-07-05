@@ -722,7 +722,9 @@
     "thumbnail": "https://i.ytimg.com/vi/8WFsZkFWwTk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDjA0RYgG3WmISAMp8MujriX7pvcQ",
     "file": "music/8WFsZkFWwTk.mp4",
     "lyrics": "",
-    "playlists": {},
+    "playlists": {
+      "BREAKCORE!": 37
+    },
     "uploaded_at": "2026-07-05T02:25:23Z"
   },
   {
