@@ -1477,7 +1477,9 @@
       "placeholder1": "",
       "placeholder2": "",
       "placeholder3": "",
-      "placeholder4": ""
+      "placeholder4": "",
+      "showOnCheezit": true,
+      "showOnKat": true
     },
     "BREAKCORE!": {
       "showOnWorker": true,
@@ -1488,7 +1490,7 @@
     },
     "playlist as the playlist name underwhelming :3": {
       "showOnWorker": false,
-      "showOnLay": false,
+      "showOnLay": true,
       "showOnCheezit": false,
       "showOnKat": false,
       "placeholder1": "",
