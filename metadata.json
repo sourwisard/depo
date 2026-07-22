@@ -5040,7 +5040,9 @@
       "thumbnail": "https://i.ytimg.com/vi/S4Khn4GEbYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBA16DF-jCLq57LZXQ7NG51yM1xg",
       "file": "music/S4Khn4GEbYQ.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 216
+      },
       "uploaded_at": "2026-07-22T19:09:14Z"
     },
     {
