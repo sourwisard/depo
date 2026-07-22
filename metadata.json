@@ -5124,7 +5124,9 @@
       "thumbnail": "https://i.ytimg.com/vi/26P2bUtxYUs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaSrOSBtnI8Ri6OMPG4H_IeVrDRg",
       "file": "music/26P2bUtxYUs.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 222
+      },
       "uploaded_at": "2026-07-22T19:13:20Z"
     },
     {
