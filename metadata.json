@@ -4914,7 +4914,9 @@
       "thumbnail": "https://i.ytimg.com/vi/zMI2YaEj9bE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPVtLxvzMaWvfingS1dxwVl74YBQ",
       "file": "music/zMI2YaEj9bE.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 207
+      },
       "uploaded_at": "2026-07-22T19:03:54Z"
     },
     {
