@@ -4886,7 +4886,9 @@
       "thumbnail": "https://i.ytimg.com/vi/w7HkCqCEtLY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa7hapF9K8kefPow0HMUCtBOUbcw",
       "file": "music/w7HkCqCEtLY.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 205
+      },
       "uploaded_at": "2026-07-22T19:02:41Z"
     },
     {
