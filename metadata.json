@@ -5208,7 +5208,9 @@
       "thumbnail": "https://i.ytimg.com/vi/X_iUsErzBkM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkAsShqH7V92Lla_e7YtFAOROtzw",
       "file": "music/X_iUsErzBkM.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 228
+      },
       "uploaded_at": "2026-07-22T19:18:37Z"
     },
     {
