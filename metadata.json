@@ -5180,7 +5180,9 @@
       "thumbnail": "https://i.ytimg.com/vi/cn2wVi2B2L0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IE8oGDAP&rs=AOn4CLC-z1l0PPZVgBcUNiEC_KZ2PjIm3w",
       "file": "music/cn2wVi2B2L0.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 226
+      },
       "uploaded_at": "2026-07-22T19:16:18Z"
     },
     {
