@@ -5194,7 +5194,9 @@
       "thumbnail": "https://i.ytimg.com/vi/h_C6p_Hn_O0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt_0_N5Z4lhRSeEgUWbdXB6NmUlA",
       "file": "music/h_C6p_Hn_O0.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 227
+      },
       "uploaded_at": "2026-07-22T19:18:04Z"
     },
     {
