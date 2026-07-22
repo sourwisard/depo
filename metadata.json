@@ -5254,6 +5254,20 @@
         "Vocaloid": 231
       },
       "uploaded_at": "2026-07-22T19:23:51Z"
+    },
+    {
+      "id": "EoL1BsSfx0E",
+      "title": "Pouya - FIVE SIX [Official Video]",
+      "uploader": "ALL BUT 6",
+      "duration": 162,
+      "url": "https://www.youtube.com/watch?v=EoL1BsSfx0E",
+      "thumbnail": "https://i.ytimg.com/vi/EoL1BsSfx0E/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCbn83yxQnbCfe4COMkTEVIBK_68Q",
+      "file": "music/EoL1BsSfx0E.mp4",
+      "lyrics": "",
+      "playlists": {
+        "187dot": 0
+      },
+      "uploaded_at": "2026-07-22T19:25:09Z"
     }
   ],
   "playlists": {
@@ -5294,6 +5308,16 @@
       "placeholder4": ""
     },
     "chill or some shit": {
+      "showOnWorker": false,
+      "showOnLay": false,
+      "showOnCheezit": false,
+      "showOnKat": false,
+      "placeholder1": "",
+      "placeholder2": "",
+      "placeholder3": "",
+      "placeholder4": ""
+    },
+    "187dot": {
       "showOnWorker": false,
       "showOnLay": false,
       "showOnCheezit": false,
