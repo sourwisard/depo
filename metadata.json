@@ -5026,7 +5026,9 @@
       "thumbnail": "https://i.ytimg.com/vi/4ui-w56wBeg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRluCEEvlsFx5cBSWIi_nvMaON1A",
       "file": "music/4ui-w56wBeg.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 215
+      },
       "uploaded_at": "2026-07-22T19:08:39Z"
     },
     {
