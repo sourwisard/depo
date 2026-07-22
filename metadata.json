@@ -4900,7 +4900,9 @@
       "thumbnail": "https://i.ytimg.com/vi/5XehRIb81k8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlJRvKuLacO5B4u3Di4wJQR6xSrA",
       "file": "music/5XehRIb81k8.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 206
+      },
       "uploaded_at": "2026-07-22T19:03:20Z"
     },
     {
