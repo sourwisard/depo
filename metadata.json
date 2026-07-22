@@ -4984,7 +4984,9 @@
       "thumbnail": "https://i.ytimg.com/vi/ArCMX7gRjLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSFsuW5FHHReb5ZK7RZEOB9AJa5w",
       "file": "music/ArCMX7gRjLQ.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 212
+      },
       "uploaded_at": "2026-07-22T19:06:57Z"
     },
     {
