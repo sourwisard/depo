@@ -5110,7 +5110,9 @@
       "thumbnail": "https://i.ytimg.com/vi/T6u91Md5Zeg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2wEtsoeFdxNm3mO_4KCqnPUpEkg",
       "file": "music/T6u91Md5Zeg.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 221
+      },
       "uploaded_at": "2026-07-22T19:12:29Z"
     },
     {
