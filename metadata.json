@@ -4830,7 +4830,9 @@
       "thumbnail": "https://i.ytimg.com/vi/_AkbaY7nGgo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvdAoFRrIoaU3wi2w0IhfjnbLh5g",
       "file": "music/_AkbaY7nGgo.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 200
+      },
       "uploaded_at": "2026-07-22T18:59:25Z"
     },
     {
