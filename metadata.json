@@ -4816,7 +4816,9 @@
       "thumbnail": "https://i.ytimg.com/vi/DOgiehjdaRM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARY8pSy5rHGM_UZIKPUQzgCMjEXg",
       "file": "music/DOgiehjdaRM.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "Vocaloid": 199
+      },
       "uploaded_at": "2026-07-22T18:58:47Z"
     },
     {
