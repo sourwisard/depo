@@ -53,7 +53,8 @@
       "lyrics": "[00:00.51] Ooh\n[00:02.02] Stop\n[00:05.13] Ooh-ooh\n[00:07.68] \n[00:10.90] Ooh-ooh\n[00:13.75] \n[00:16.90] Ooh-ooh\n[00:19.59] \n[00:23.07] Ooh-ooh\n[00:25.47] \n[00:27.66] With your feet on the air and your head on the ground\n[00:34.04] Try this trick and spin it, yeah (yeah)\n[00:40.01] Your head'll collapse and there's nothing in it\n[00:43.48] And you'll ask yourself\n[00:45.92] Where is my mind?\n[00:48.92] Where is my mind?\n[00:50.74] Where is my mind?\n[00:54.45] (Where is my mind?)\n[00:56.62] (Where is, where is my mind?)\n[01:02.86] Way out in the water, see it swimmin'\n[01:09.44] \n[01:15.08] I was swimmin' in the Caribbean\n[01:19.06] \n[01:21.44] Animals were hiding behind the rock\n[01:27.66] Except the little fish\n[01:29.16] Bump into me, swear he's tryin' a talk to me, say wait, wait\n[01:33.19] Where is my mind?\n[01:36.23] Where is my mind?\n[01:37.76] Where is my mind?\n[01:41.77] (Where is my mind?)\n[01:44.75] (Where is my mind?)\n[01:49.67] Way in out in the water, see it swimmin'\n[01:56.10] \n[02:09.91] With your feet on the air and your head on the ground\n[02:14.82] \n[02:16.88] Try this trick and spin it, yeah\n[02:22.63] Your head'll collapse and there's nothing in it\n[02:26.60] And you'll ask yourself\n[02:28.77] Where is my mind?\n[02:30.86] Where is my mind?\n[02:32.93] Where is my mind?\n[02:36.50] (Where is my mind?)\n[02:39.05] (Where is my mind?)\n[02:41.41] (Where is my mind?)\n[02:45.18] Way out in the water, see it swimmin'\n[02:51.84] \n[02:57.92] Ooh-ooh (with your feet on the air)\n[03:04.76] Ooh, ooh (and your head on the ground)\n[03:08.01] \n[03:13.79] Ooh-ooh (try this trick and spin it, yeah)\n[03:16.19] Ooh-ooh\n[03:21.28] Ooh-ooh\n[03:23.84] \n[03:26.80] Ooh-ooh\n[03:29.53] Ooh-ooh\n[03:32.35] \n[03:39.11] Ooh-ooh\n[03:39.78] ",
       "uploaded_at": "2026-07-05T00:45:19Z",
       "playlists": {
-        "cutie": 4
+        "cutie": 4,
+        "chill or some shit": 0
       }
     },
     {
@@ -4286,6 +4287,16 @@
     },
     "Vocaloid": {
       "showOnWorker": true,
+      "showOnLay": false,
+      "showOnCheezit": false,
+      "showOnKat": false,
+      "placeholder1": "",
+      "placeholder2": "",
+      "placeholder3": "",
+      "placeholder4": ""
+    },
+    "chill or some shit": {
+      "showOnWorker": false,
       "showOnLay": false,
       "showOnCheezit": false,
       "showOnKat": false,
