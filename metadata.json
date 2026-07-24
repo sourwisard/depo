@@ -9226,20 +9226,6 @@
       "uploaded_at": "2026-07-23T14:57:13Z"
     },
     {
-      "id": "MXgX6B_fdxI",
-      "title": "It feels like I've forgotten something",
-      "uploader": "reidenshi",
-      "duration": 133,
-      "url": "https://www.youtube.com/watch?v=MXgX6B_fdxI",
-      "thumbnail": "https://i.ytimg.com/vi/MXgX6B_fdxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwRuJhf9-gRabMNjATo0Jrpn3ijw",
-      "file": "music/MXgX6B_fdxI.mp4",
-      "lyrics": "",
-      "playlists": {
-        "dreamcore": 7
-      },
-      "uploaded_at": "2026-07-24T01:24:01Z"
-    },
-    {
       "id": "wPOF5FgG3DU",
       "title": "A1 - It's just a burning memory",
       "uploader": "The Caretaker",
@@ -9378,6 +9364,20 @@
         "dreamcore": 17
       },
       "uploaded_at": "2026-07-24T01:29:28Z"
+    },
+    {
+      "id": "MXgX6B_fdxI",
+      "title": "It feels like I've forgotten something",
+      "uploader": "reidenshi",
+      "duration": 133,
+      "url": "https://www.youtube.com/watch?v=MXgX6B_fdxI",
+      "thumbnail": "https://i.ytimg.com/vi/MXgX6B_fdxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwRuJhf9-gRabMNjATo0Jrpn3ijw",
+      "file": "music/MXgX6B_fdxI.mp4",
+      "lyrics": "",
+      "playlists": {
+        "dreamcore": 18
+      },
+      "uploaded_at": "2026-07-24T01:29:58Z"
     }
   ],
   "playlists": {
