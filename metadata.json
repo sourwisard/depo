@@ -9226,20 +9226,6 @@
       "uploaded_at": "2026-07-23T14:57:13Z"
     },
     {
-      "id": "aBhrEv5Z7uc",
-      "title": "Resonance",
-      "uploader": "Home - Topic",
-      "duration": 213,
-      "url": "https://www.youtube.com/watch?v=aBhrEv5Z7uc",
-      "thumbnail": "https://i.ytimg.com/vi/aBhrEv5Z7uc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoYslp0hjPeNJDHmsFlVm_hYz7wQ",
-      "file": "music/aBhrEv5Z7uc.mp4",
-      "lyrics": "",
-      "playlists": {
-        "dreamcore": 4
-      },
-      "uploaded_at": "2026-07-24T01:22:32Z"
-    },
-    {
       "id": "xMu_R3NUxB8",
       "title": "memory erasure0 (slowed)",
       "uploader": "limbus vita - Topic",
@@ -9378,6 +9364,20 @@
         "dreamcore": 14
       },
       "uploaded_at": "2026-07-24T01:27:57Z"
+    },
+    {
+      "id": "aBhrEv5Z7uc",
+      "title": "Resonance",
+      "uploader": "Home - Topic",
+      "duration": 213,
+      "url": "https://www.youtube.com/watch?v=aBhrEv5Z7uc",
+      "thumbnail": "https://i.ytimg.com/vi/aBhrEv5Z7uc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoYslp0hjPeNJDHmsFlVm_hYz7wQ",
+      "file": "music/aBhrEv5Z7uc.mp4",
+      "lyrics": "",
+      "playlists": {
+        "dreamcore": 15
+      },
+      "uploaded_at": "2026-07-24T01:28:31Z"
     }
   ],
   "playlists": {
