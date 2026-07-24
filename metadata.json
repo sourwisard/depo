@@ -9800,20 +9800,6 @@
       "uploaded_at": "2026-07-24T01:54:21Z"
     },
     {
-      "id": "1zbA_vwRqZc",
-      "title": "Seaside Summer",
-      "uploader": "NAPCAST - Topic",
-      "duration": 122,
-      "url": "https://www.youtube.com/watch?v=1zbA_vwRqZc",
-      "thumbnail": "https://i.ytimg.com/vi/1zbA_vwRqZc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLZ7tpic_dk244Yms8_0s6_mgHTA",
-      "file": "music/1zbA_vwRqZc.mp4",
-      "lyrics": "",
-      "playlists": {
-        "dreamcore": 64
-      },
-      "uploaded_at": "2026-07-24T01:59:10Z"
-    },
-    {
       "id": "H1CAbi9pcuY",
       "title": "last day to live (make it count)",
       "uploader": "dreamcorp.",
@@ -9938,6 +9924,20 @@
         "dreamcore": 73
       },
       "uploaded_at": "2026-07-24T02:03:49Z"
+    },
+    {
+      "id": "1zbA_vwRqZc",
+      "title": "Seaside Summer",
+      "uploader": "NAPCAST - Topic",
+      "duration": 122,
+      "url": "https://www.youtube.com/watch?v=1zbA_vwRqZc",
+      "thumbnail": "https://i.ytimg.com/vi/1zbA_vwRqZc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLZ7tpic_dk244Yms8_0s6_mgHTA",
+      "file": "music/1zbA_vwRqZc.mp4",
+      "lyrics": "",
+      "playlists": {
+        "dreamcore": 74
+      },
+      "uploaded_at": "2026-07-24T02:04:30Z"
     }
   ],
   "playlists": {
