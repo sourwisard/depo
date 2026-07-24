@@ -9226,20 +9226,6 @@
       "uploaded_at": "2026-07-23T14:57:13Z"
     },
     {
-      "id": "wPOF5FgG3DU",
-      "title": "A1 - It's just a burning memory",
-      "uploader": "The Caretaker",
-      "duration": 213,
-      "url": "https://www.youtube.com/watch?v=wPOF5FgG3DU",
-      "thumbnail": "https://i.ytimg.com/vi/wPOF5FgG3DU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnGSvcPDykXzMbkLA0H3on6s1dxg",
-      "file": "music/wPOF5FgG3DU.mp4",
-      "lyrics": "[00:00.02] Stage 1 - Here we experience the first signs of memory loss. This stage is most like a beautiful daydream. The glory of old age and recollection. The last of the great days\n[00:30.02] ",
-      "playlists": {
-        "dreamcore": 0
-      },
-      "uploaded_at": "2026-07-24T01:20:21Z"
-    },
-    {
       "id": "qH5hM1ILuFQ",
       "title": "Fallen Down",
       "uploader": "Toby Fox",
@@ -9336,6 +9322,20 @@
         "dreamcore": 7
       },
       "uploaded_at": "2026-07-24T01:24:01Z"
+    },
+    {
+      "id": "wPOF5FgG3DU",
+      "title": "A1 - It's just a burning memory",
+      "uploader": "The Caretaker",
+      "duration": 213,
+      "url": "https://www.youtube.com/watch?v=wPOF5FgG3DU",
+      "thumbnail": "https://i.ytimg.com/vi/wPOF5FgG3DU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnGSvcPDykXzMbkLA0H3on6s1dxg",
+      "file": "music/wPOF5FgG3DU.mp4",
+      "lyrics": "[00:00.02] Stage 1 - Here we experience the first signs of memory loss. This stage is most like a beautiful daydream. The glory of old age and recollection. The last of the great days\n[00:30.02] ",
+      "playlists": {
+        "dreamcore": 8
+      },
+      "uploaded_at": "2026-07-24T01:24:37Z"
     }
   ],
   "playlists": {
