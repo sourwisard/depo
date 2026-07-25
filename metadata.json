@@ -9976,6 +9976,20 @@
       "lyrics": "",
       "playlists": {},
       "uploaded_at": "2026-07-25T01:37:09Z"
+    },
+    {
+      "id": "Iqw03oGysxE",
+      "title": "Run Rabbit",
+      "uploader": "Mollie Elizabeth",
+      "duration": 190,
+      "url": "https://www.youtube.com/watch?v=Iqw03oGysxE",
+      "thumbnail": "https://i.ytimg.com/vi/Iqw03oGysxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbfIC1vGaldDHz2PCURuwCE11xSA",
+      "file": "music/Iqw03oGysxE.mp4",
+      "lyrics": "[00:08.46] You best be bashed around the bush once or twice\n[00:12.85] Before you get to taste the finer life\n[00:17.21] My father told me gotta just survive\n[00:21.45] Put on a smile just find a vice\n[00:25.40] Don't hate the girl, just hate the crime\n[00:29.59] Oh forgive me lord\n[00:31.76] Oh I'm a good girl\n[00:33.98] I'd never hurt a fly, but I got walls to climb\n[00:38.24] Oh forgive me lord\n[00:40.48] Oh a minor chord\n[00:42.73] You put me in this house\n[00:44.76] I had to claw right out\n[00:46.76] Run rabbit run rabid\n[00:49.12] (Run run run run run run run)\n[00:50.85] Gift granted you've gone rancid\n[00:53.26] (Rancid rancid rancid)\n[00:55.33] Run rabbit run rabid\n[00:57.88] (Run run run run run run run)\n[00:59.75] Walls padded drinking acid\n[01:08.29] I never knew another way of life\n[01:12.63] My baby brain collected all the slime\n[01:17.05] My father told me gotta just survive\n[01:21.48] You drink the poison gotta pay the price\n[01:27.66] Oh forgive me lord\n[01:29.63] Oh I'm a good girl\n[01:32.13] I'd never hurt a fly, but I got walls to climb\n[01:36.08] Oh forgive me lord\n[01:38.15] Oh a minor chord\n[01:40.66] You put me in this house\n[01:42.88] I had to claw right out\n[01:44.73] Run rabbit run rabid\n[01:46.81] (Run run run run run run run)\n[01:48.91] Gift granted you've gone rancid\n[01:51.04] (Rancid rancid rancid)\n[01:53.27] Run rabbit run rabid\n[01:55.93] (Run run run run run run run)\n[01:57.63] Walls padded drinking acid\n[02:02.04] What does not kill you\n[02:08.02] Never repairs\n[02:11.27] What does not kill you\n[02:15.72] Gives you never ending nightmares\n[02:26.73] Oh forgive me lord\n[02:33.43] Oh I'm a good girl\n[02:35.99] I'd never hurt a fly, but I got walls to climb\n[02:39.46] Oh forgive me lord\n[02:41.79] Oh a minor chord\n[02:44.25] You put me in this house\n[02:46.39] I had to claw right out\n[02:48.38] Run rabbit run rabid\n[02:50.48] (Run run run run run run run)\n[02:52.78] Gift granted you've gone rancid\n[02:54.70] (Rancid rancid rancid)\n[02:56.93] Run rabbit run rabid\n[02:59.57] (Run run run run run run run)\n[03:01.47] Walls padded drinking acid\n[03:04.96] ",
+      "playlists": {
+        "I guess bro": 0
+      },
+      "uploaded_at": "2026-07-25T17:03:18Z"
     }
   ],
   "playlists": {
@@ -10056,6 +10070,16 @@
       "placeholder4": ""
     },
     "dreamcore": {
+      "showOnWorker": false,
+      "showOnLay": false,
+      "showOnCheezit": false,
+      "showOnKat": false,
+      "placeholder1": "",
+      "placeholder2": "",
+      "placeholder3": "",
+      "placeholder4": ""
+    },
+    "I guess bro": {
       "showOnWorker": false,
       "showOnLay": false,
       "showOnCheezit": false,
