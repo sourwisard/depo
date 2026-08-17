@@ -10537,7 +10537,9 @@
       "thumbnail": "https://i.ytimg.com/vi_webp/e3K8dSjfftE/maxresdefault.webp",
       "file": "music/e3K8dSjfftE.mp4",
       "lyrics": "",
-      "playlists": {},
+      "playlists": {
+        "BREAKCORE!": 65
+      },
       "uploaded_at": "2026-07-27T20:27:24Z"
     },
     {
