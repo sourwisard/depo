@@ -12747,7 +12747,7 @@
       "showOnWorker": false,
       "showOnLay": false,
       "showOnCheezit": false,
-      "showOnKat": false,
+      "showOnKat": true,
       "placeholder1": "",
       "placeholder2": "",
       "placeholder3": "",
