@@ -12654,7 +12654,7 @@
       "placeholder3": "",
       "placeholder4": "",
       "showOnCheezit": true,
-      "showOnKat": true
+      "showOnKat": false
     },
     "BREAKCORE!": {
       "showOnWorker": true,
