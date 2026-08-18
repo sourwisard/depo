@@ -10915,6 +10915,20 @@
         "BREAKCORE!": 70
       },
       "uploaded_at": "2026-08-18T00:01:24Z"
+    },
+    {
+      "id": "FnUf1ASsk_k",
+      "title": "Lucid Dreams",
+      "uploader": "PLANT - Topic",
+      "duration": 198,
+      "url": "https://www.youtube.com/watch?v=FnUf1ASsk_k",
+      "thumbnail": "https://i.ytimg.com/vi/FnUf1ASsk_k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzPpMYzXDHPVeIbpUNt2v4kqhJbA",
+      "file": "music/FnUf1ASsk_k.mp4",
+      "lyrics": "Counting my steps, I am bathed in moonlight\nSilver is lighting the scenes inside me\nThe girl that I seek in my dreams comes to life\nPutting the shadows of mine behind me\n\nWonders falling from the sky\nAnd I'm the rain\nSaw it right before my eyes\nAnd I am changed\n\nPurple water, emerald leaves\nNight time creatures at my feet\nMy lucid dreams\nMy lucid dreams\nFloating down a crystal stream\nMy thoughts taking care of me\nMy lucid dreams\nMy lucid dreams\n\nFlowers that grow in my sleep\nGive me hope\nWatching such beauty unfold inside me\nAll of these powers I'll keep\nIn my soul\nBind them so when I'm awake\nI'll find them\n\nWonders falling from the sky\nAnd I'm the rain\nSaw it right before my eyes\nAnd I am changed\n\nPurple water, emerald leaves\nNight time creatures at my feet\nMy lucid dreams\nMy lucid dreams\nFloating down a crystal stream\nMy thoughts taking care of me\nMy lucid dreams\nMy lucid dreams",
+      "playlists": {
+        "nameless": 0
+      },
+      "uploaded_at": "2026-08-18T00:06:52Z"
     }
   ],
   "playlists": {
@@ -11005,6 +11019,16 @@
       "placeholder4": ""
     },
     "I guess bro": {
+      "showOnWorker": false,
+      "showOnLay": false,
+      "showOnCheezit": false,
+      "showOnKat": false,
+      "placeholder1": "",
+      "placeholder2": "",
+      "placeholder3": "",
+      "placeholder4": ""
+    },
+    "nameless": {
       "showOnWorker": false,
       "showOnLay": false,
       "showOnCheezit": false,
